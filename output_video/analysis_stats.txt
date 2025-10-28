@@ -1,0 +1,83 @@
+FOOTBALL ANALYSIS STATISTICS
+========================================
+Total frames analyzed: 750
+Video duration: 25.0 seconds
+Team 1 ball possession: 25.1%
+Team 2 ball possession: 74.9%
+Total unique players detected: 52
+Player ID range: 1 to 282
+Frames with ball control: 750
+Processing time: 33.5 seconds
+
+SPEED ANALYSIS
+--------------------
+Average player speed: 145.3 pixels/sec
+Fastest player speed: 7481.8 pixels/sec
+Total distance covered: 41588.9 pixels
+
+Most Active Players (by speed):
+Player 18: 3278.9 px/sec (High)
+Player 110: 301.5 px/sec (High)
+Player 231: 259.4 px/sec (High)
+Player 227: 251.9 px/sec (High)
+Player 280: 210.0 px/sec (High)
+Player 126: 195.5 px/sec (High)
+Player 269: 183.6 px/sec (High)
+Player 144: 153.1 px/sec (High)
+Player 28: 117.8 px/sec (High)
+Player 6: 107.2 px/sec (High)
+
+PLAYER ACTIVITY ANALYSIS
+------------------------------
+Player 6: 750 frames (100.0%)
+Player 2: 749 frames (99.9%)
+Player 7: 748 frames (99.7%)
+Player 1: 747 frames (99.6%)
+Player 23: 744 frames (99.2%)
+Player 3: 737 frames (98.3%)
+Player 12: 737 frames (98.3%)
+Player 5: 736 frames (98.1%)
+Player 4: 734 frames (97.9%)
+Player 14: 733 frames (97.7%)
+Player 19: 731 frames (97.5%)
+Player 10: 687 frames (91.6%)
+Player 8: 674 frames (89.9%)
+Player 9: 504 frames (67.2%)
+Player 124: 447 frames (59.6%)
+Player 127: 445 frames (59.3%)
+Player 128: 425 frames (56.7%)
+Player 132: 424 frames (56.5%)
+Player 16: 364 frames (48.5%)
+Player 164: 351 frames (46.8%)
+Player 122: 313 frames (41.7%)
+Player 15: 269 frames (35.9%)
+Player 11: 262 frames (34.9%)
+Player 13: 257 frames (34.3%)
+Player 218: 243 frames (32.4%)
+Player 244: 215 frames (28.7%)
+Player 28: 198 frames (26.4%)
+Player 25: 188 frames (25.1%)
+Player 85: 161 frames (21.5%)
+Player 253: 155 frames (20.7%)
+Player 269: 74 frames (9.9%)
+Player 116: 64 frames (8.5%)
+Player 126: 60 frames (8.0%)
+Player 282: 36 frames (4.8%)
+Player 231: 30 frames (4.0%)
+Player 21: 12 frames (1.6%)
+Player 18: 6 frames (0.8%)
+Player 106: 6 frames (0.8%)
+Player 108: 5 frames (0.7%)
+Player 109: 5 frames (0.7%)
+Player 144: 3 frames (0.4%)
+Player 227: 3 frames (0.4%)
+Player 110: 2 frames (0.3%)
+Player 146: 2 frames (0.3%)
+Player 280: 2 frames (0.3%)
+Player 86: 1 frames (0.1%)
+Player 111: 1 frames (0.1%)
+Player 135: 1 frames (0.1%)
+Player 180: 1 frames (0.1%)
+Player 198: 1 frames (0.1%)
+Player 216: 1 frames (0.1%)
+Player 251: 1 frames (0.1%)
