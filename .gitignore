@@ -1,0 +1,13 @@
+# Virtual environments
+venv/
+
+# Python cache
+__pycache__/
+
+# Models
+*.pt
+Models/
+
+# Generated files
+stubs/
+output_video/
